@@ -56,8 +56,6 @@
 | 🖥️ **MeinPC Website** | Website rund um meinen PC | HTML · CSS |
 | 🪪 **Visitenkarte** | Digitale Visitenkarte | HTML · CSS |
 
-> 💡 Tipp: Verlinke in der Tabelle jeweils das Repository, z. B. `[Sakura Ramen](https://github.com/marvenjej/Sakura_Ramen)`.
-
 <img src="https://raw.githubusercontent.com/marvenjej/marvenjej/snake-output/snake.svg" alt="Snake animation" />
 
 ## 📫 Kontakt
